@@ -1,0 +1,1 @@
+This is my 0-simply_match_school.rb project
